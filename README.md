@@ -1,4 +1,4 @@
-== Description ==
+# Description
 Erlang-C PHP Class is a class that can be used to calculcate the required number of call center employees based on the inbound call/chat/ticket metrics. 
 
 For example, you can find:
@@ -9,7 +9,7 @@ For example, you can find:
 * The average wait time based on the number of agents you have.
 
 
-== Usage ==
+# Usage
 Usage is described in example/example.php
 
 
